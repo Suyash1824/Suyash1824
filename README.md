@@ -1,4 +1,4 @@
-# 💫 About Me:
+#About Me:
  Student at Sahyadri College of Engineering and Management, Mangaluru<br> I’m currently working on<br> I’m looking to collaborate on<br> I’m currently learning<br> Fun fact
 
 
